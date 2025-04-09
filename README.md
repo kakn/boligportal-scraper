@@ -1,1 +1,1 @@
-# python-boligportal-scraper
+# boligportal-scraper
